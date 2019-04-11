@@ -8,7 +8,8 @@ spring:
           filters: stat
           driver-class-name: com.mysql.jdbc.Driver
           #基本属性
-          url: jdbc:mysql://10.154.74.227:3306/usercenter?useUnicode=true&characterEncoding=UTF-8
+          url: jdbc:mysql://localhost:3306/usercenter?useUnicode=true&characterEncoding=UTF-8
+          #url: jdbc:mysql://10.154.74.227:3306/usercenter?useUnicode=true&characterEncoding=UTF-8
           username: root
           password: password
           #配置初始化大小/最小/最大
