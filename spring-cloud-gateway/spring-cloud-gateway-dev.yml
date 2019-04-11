@@ -31,3 +31,6 @@ spring-cloud-order:
   ribbon:
     Connectimeout: 6000
     ReadTimeout: 9000
+    
+hello:
+    local34
